@@ -1,0 +1,107 @@
+# Privacy Policy for LangLearn
+
+**Last Updated: April 10, 2025**
+
+## Introduction
+
+Welcome to LangLearn! This Privacy Policy explains how we collect, use, store, and protect your personal information when you use our language learning application ("the App"). We are committed to ensuring the privacy and security of your data.
+
+LangLearn is designed to help you learn languages through conversations with an AI assistant, which requires audio recording functionality to enable speech recognition features.
+
+## Information We Collect
+
+### Information You Provide
+
+- **Account Information**: When you create an account, we collect your email address, display name, and optional profile picture.
+- **Language Preferences**: Your native language, learning language, proficiency level, and translation preferences.
+- **Voice Recordings**: When you use the conversation features, we temporarily record your voice to transcribe your speech.
+- **Conversation Data**: The text of conversations you have with our AI assistant, including messages, translations, and feedback.
+
+### Information Collected Automatically
+
+- **Usage Data**: Information about how you use the App, including which features you use most frequently.
+- **Device Information**: Device type, operating system, and version.
+- **Performance Data**: App performance metrics and error logs.
+
+## How We Use Microphone Permission
+
+The App requires the `RECORD_AUDIO` permission to:
+
+1. Enable voice recognition during conversation practice
+2. Convert your spoken words into text for processing by our language learning AI
+3. Provide pronunciation feedback and corrections
+
+**Important**: Your voice recordings are:
+- Used only for the immediate purpose of speech recognition
+- Processed on your device when possible
+- Transferred securely to our servers when cloud processing is required
+- Not stored permanently unless you explicitly choose to save a conversation
+- Never used for advertising purposes or sold to third parties
+
+You can disable microphone access through your device settings at any time, though this will limit conversation functionality.
+
+## How We Use Your Information
+
+We use your information to:
+
+- Provide and improve our language learning services
+- Create personalized learning experiences
+- Process and respond to your speech input
+- Generate appropriate AI responses for language practice
+- Analyze app usage to improve features and user experience
+- Communicate with you about your account and updates
+- Ensure the security and proper functioning of our service
+
+## Data Storage and Security
+
+Your data is stored in our secure Firebase database with appropriate safeguards in place:
+
+- All data transmissions are encrypted using industry-standard SSL/TLS encryption
+- We implement strict access controls to limit who can access your data
+- We regularly review and update our security practices
+
+## Data Sharing and Disclosure
+
+We do not sell your personal information to third parties. We may share your information in the following limited circumstances:
+
+- With service providers who help us operate our application (e.g., cloud storage, speech recognition services)
+- When required by law or to respond to legal process
+- To protect our rights, privacy, safety, or property
+- In connection with a sale, merger, or acquisition of all or a portion of our company
+
+All third-party service providers are required to maintain the confidentiality and security of your data.
+
+## OpenAI Integration
+
+Our app uses OpenAI's API for some language processing features. When you use these features, your text data may be sent to OpenAI for processing according to their privacy policy and terms. Voice data is processed separately, and raw audio is never shared with OpenAI. For more information, please see [OpenAI's Privacy Policy](https://openai.com/privacy/).
+
+## Your Rights and Choices
+
+Depending on your location, you may have certain rights regarding your personal information:
+
+- **Access and Update**: View and update your account information within the App settings
+- **Delete**: Request deletion of your account and associated data
+- **Object**: Object to certain uses of your information
+- **Data Portability**: Request a copy of your data in a structured format
+- **Withdraw Consent**: Revoke permission for optional data collection
+
+To exercise these rights, contact us at privacy@langlearn-app.com.
+
+## Children's Privacy
+
+Our App is not directed to children under 13 (or the applicable age in your jurisdiction). We do not knowingly collect personal information from children. If you believe we have inadvertently collected information from a child, please contact us to have it removed.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page and updating the "Last Updated" date. For significant changes, we will provide more prominent notice or obtain consent as required by law.
+
+## Contact Us
+
+If you have any questions about this Privacy Policy or our data practices, please contact us at:
+
+- **Email**: applanglearn@gmail.com
+- **Address**: LangLearn Inc., 123 Learning Street, San Francisco, CA 94103, USA
+
+---
+
+By using LangLearn, you consent to the collection and use of information in accordance with this Privacy Policy.
